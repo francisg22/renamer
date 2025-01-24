@@ -10,11 +10,11 @@ It is able to handle spaces in filenames, and its intended use is for MacOS made
 
 An example call would like like so:\
 bash renamer.sh [files]\
-the easiest way to use it is to provide a path to a folder with many files of the same type. Then, 
+The easiest way to use it is to provide a path to a folder with many files of the same type. Then, 
 type in the location and use the * to indicate all files of a specific type.\
 For example:\
 users/gf/desktop/*.png\
 This will grab all png files in the desktop folder.\
 \
-utilize the -h or --help flag to learn about the different flags. 
+Utilize the -h or --help flag to learn about the different flags. 
 
